@@ -1,0 +1,15 @@
+C:\Users\MyComp\Desktop\LeetCodeSolution\Solution\SolvingProblems\SolvingProblems\bin\Debug\net9.0\SolvingProblems.exe
+C:\Users\MyComp\Desktop\LeetCodeSolution\Solution\SolvingProblems\SolvingProblems\bin\Debug\net9.0\SolvingProblems.deps.json
+C:\Users\MyComp\Desktop\LeetCodeSolution\Solution\SolvingProblems\SolvingProblems\bin\Debug\net9.0\SolvingProblems.runtimeconfig.json
+C:\Users\MyComp\Desktop\LeetCodeSolution\Solution\SolvingProblems\SolvingProblems\bin\Debug\net9.0\SolvingProblems.dll
+C:\Users\MyComp\Desktop\LeetCodeSolution\Solution\SolvingProblems\SolvingProblems\bin\Debug\net9.0\SolvingProblems.pdb
+C:\Users\MyComp\Desktop\LeetCodeSolution\Solution\SolvingProblems\SolvingProblems\obj\Debug\net9.0\SolvingProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyComp\Desktop\LeetCodeSolution\Solution\SolvingProblems\SolvingProblems\obj\Debug\net9.0\SolvingProblems.AssemblyInfoInputs.cache
+C:\Users\MyComp\Desktop\LeetCodeSolution\Solution\SolvingProblems\SolvingProblems\obj\Debug\net9.0\SolvingProblems.AssemblyInfo.cs
+C:\Users\MyComp\Desktop\LeetCodeSolution\Solution\SolvingProblems\SolvingProblems\obj\Debug\net9.0\SolvingProblems.csproj.CoreCompileInputs.cache
+C:\Users\MyComp\Desktop\LeetCodeSolution\Solution\SolvingProblems\SolvingProblems\obj\Debug\net9.0\SolvingProblems.sourcelink.json
+C:\Users\MyComp\Desktop\LeetCodeSolution\Solution\SolvingProblems\SolvingProblems\obj\Debug\net9.0\SolvingProblems.dll
+C:\Users\MyComp\Desktop\LeetCodeSolution\Solution\SolvingProblems\SolvingProblems\obj\Debug\net9.0\refint\SolvingProblems.dll
+C:\Users\MyComp\Desktop\LeetCodeSolution\Solution\SolvingProblems\SolvingProblems\obj\Debug\net9.0\SolvingProblems.pdb
+C:\Users\MyComp\Desktop\LeetCodeSolution\Solution\SolvingProblems\SolvingProblems\obj\Debug\net9.0\SolvingProblems.genruntimeconfig.cache
+C:\Users\MyComp\Desktop\LeetCodeSolution\Solution\SolvingProblems\SolvingProblems\obj\Debug\net9.0\ref\SolvingProblems.dll
