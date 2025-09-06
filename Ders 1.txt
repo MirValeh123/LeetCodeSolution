@@ -1,0 +1,60 @@
+1 inci
+
+class Program
+{
+    static void Main(string[] args)
+    {
+
+        int[] nums1 = { 2, 7, 11, 15 };//tetst 1
+        int target1 = 9;
+
+        //burda chatgpt den komek istedimki her birin nece etmek olar sonra sizin dediyiniz metod aglima geldi
+        for (int i = 0; i < nums1.Length; i++)
+        {
+            for (int j=i+1;j<nums1.Length;j++)
+            {
+                Console.WriteLine(i, j);
+            }
+
+        }
+    }
+}
+
+
+---
+
+9 ci
+
+using System;
+
+class program
+{
+    static void Main(string[] arg)
+    {
+        int x = 121;
+        Console.WriteLine(Planidrom(x));
+    }
+
+    static string Planidrom(int x)
+    {
+        if (x < 0) return false;
+        else { }
+
+
+            string a = x.ToString();//burda neyneye bilceyimi sorusdum Chat dan
+
+        int l = 0;
+
+        int r = a.Length - 1;
+
+        while (l < r) {
+ 
+
+        }
+
+        return true;
+    }
+}
+
+
+---
