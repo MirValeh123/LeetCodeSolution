@@ -1,0 +1,13 @@
+ public int Sozunuzunlugu(string s) {
+        int i = s.Length - 1;
+        s = s.Trim();
+
+       
+        while (i >= 0 && s.i != " ") {
+            length++;
+            i--;
+        }
+
+        return length;
+    }
+
