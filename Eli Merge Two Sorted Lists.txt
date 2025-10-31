@@ -1,0 +1,31 @@
+public bool IsValid(string s)
+{
+    string t = "";
+
+    foreach (var c in s)
+    {
+        if (c == '(' ||
+            c == '[' ||
+            c == '{')
+            t += c; //elave ettiy beraber ettiy
+        else
+        {
+            if (t == "") 
+             Console.WriteLine("Olmadi icin bosdu");
+
+            var son = t[t.Length-1]; //axrincini gotur
+
+            if ((c == ')' && son == '(') ||
+                (c == ']' && son == '[') ||
+                (c == '}' && son == '{'))
+                t = t.Remove(t.Length - 1); //uygun olsa silir olmasa silmir
+            else
+                Console.WriteLine("Olmadi");
+        }
+        Console.WriteLine("hamisi baglanib");
+
+    }
+
+    return t == "";
+   
+}
